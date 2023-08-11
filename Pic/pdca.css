@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif; font-family:Arial, Helvetica, sans-serif,;color:#333;margin:0px;}
+
+from,ul,dl,img,h1,h2,h3,h4,h5,h6,h7,p,div{border:0;}.clear{clear:both;height:0px;font-size:1px;overflow:hidden;}
+h1,h2,h3,h4,h5,h6,h7,form,select,input,ul,li,dl,dt,dd,label,img,p,div{padding:0;margin:0;}li,dd{list-style:none;overflow:hidden;}
+a:link,a:visited{text-decoration:none;} 
+table { border:none;}
+
+/*PDCAT-PAAP 2020*/
+.paap{ background-image: url(PAAP2020/images/wz_1.jpg); background-repeat:repeat-x; background-color:#cee2f1; }
+.paapcon{ height:363px; width:1400px; margin:0 auto; }
+.introd{height:60px; background-color:#486a00; font-size:18px; line-height:50px; font-weight:bold; color:#fffbcb;}
+.introd ul li{ float:left; background:url(images/line01.jpg) no-repeat; padding:0 20px;    }
+.introd ul li a{ color:#fffbcb}
+.introd ul li a:hover{ color: #FF0;}
+.introduction{padding:40px; font-size:18px; text-align:justify;}
+.introduction p{ text-indent:2em; line-height:30px; }
+.introduction a{ color: #039;}
+.introduction h3{ text-align:center; line-height:40px; color:#003567;}
+
+.conpag{width:568px; height:300px;   background-color:#f0f0f0; margin-top:20px; float:left; padding:20px 40px; line-height:20px;}
+
+
+.chair{padding:30px 200px; font-size:18px; text-align:justify; line-height:30px;}
+.chair h5{ font-size:18px; font-weight:bold; width:1000px; height:40px; background-color: #cde4f3; text-align:center; line-height:40px;  }
+.chair p{ line-height:40px; border-bottom: dotted  1px #7a912a; text-indent:50px;}
+
+
+.keynotesp{padding:40px 100px; font-size:16px; text-align:justify; line-height:30px;}
+.keynotesp table td{ border-bottom: #E3E3E3 1px solid ; padding:20px 0px;}
+
+
+.program{ margin-left:100px; border-bottom:1px solid #CCC; border-right:1px solid #CCC; font-size:16px;}
+.program td{ text-align:center; height:40px; line-height:40px; border:1px solid #CCC; border-right:none; border-bottom:none;}
+
+
+.photopic img{width:320px; border:1px solid #CCC; margin:0px 10px 10px 0px; float:left;}
+
+
